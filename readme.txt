@@ -10,4 +10,4 @@ After installing the required software create a folder and place decon1d.py, dec
 in decon_set.py as required for your data. Next open a terminal window and navigate to the folder that contains your data and type python (or your alias for python)
 decon1d.py. A single pdf document should be created within the same folder that displays the deconvolution models.
 
-
+S1 Data.txt contains example simulated data from the above mentioned paper.
